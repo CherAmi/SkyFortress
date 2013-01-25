@@ -26,6 +26,8 @@
 *    4.) Chmod that folder to 777.
 *    5.) Spread the link around. :)
 *
+*  Side note: The AES/Rjindael libraries begin at line 266. Everything after line
+*  266 was written by the phpseclib devs.
 */
 
 $fileself = $_SERVER['PHP_SELF'];
